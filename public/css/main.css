@@ -1,0 +1,69 @@
+* {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    font-family: 'Red Hat Text', sans-serif;
+
+    background: rgba(130, 140, 102, 0.78);
+}
+
+
+p#estado {
+    position: absolute;
+    width: 320px;
+    height: 55px;
+    left: 161px;
+    top: 256px;
+
+    color: #000000;
+}
+
+select#est, option {
+    position: absolute;
+    width: 1141px;
+    height: 55px;
+    left: 161px;
+    top: 299px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border-radius: 10mm;
+
+    color: #000000;
+}
+
+
+select#Cidade, option {
+    position: absolute;
+    width: 1141px;
+    height: 78px;
+    left: 143px;
+    top: 545px;
+    border-radius: 10mm;
+
+    background: #C4C4C4;
+}
+
+p#cidade {
+    position: absolute;
+    width: 303px;
+    height: 39px;
+    left: 143px;
+    top: 493px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.div#search, button {
+    position: absolute;
+    width: 384px;
+    height: 93px;
+    left: 520px;
+    top: 741px;
+    border-radius: 20mm;
+
+    background: #C4C4C4;
+}
