@@ -1,0 +1,76 @@
+:root {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    font-family: 'Red Hat Text', sans-serif;
+
+    background: rgba(130, 140, 102, 0.78);
+}
+
+p.cidest {
+    position: absolute;
+    width: 194px;
+    height: 73px;
+    left: 23px;
+    top: 0px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.div#pesquisar, input#pesquisa {
+    position: absolute;
+    width: 706px;
+    height: 62px;
+    left: 333px;
+    top: 126px;
+
+    background: #F3F3F3;
+}
+
+input#Buscar {
+    position: absolute;
+    width: 250px;
+    height: 54px;
+    left: 535px;
+    top: 207px;
+    border-radius: 50mm;
+    
+
+    background: #C4C4C4;
+}
+
+p.search-advance {
+    position: absolute;
+    width: 524px;
+    height: 62px;
+    left: 39px;
+    top: 437px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.div#search, input#pesquisar {
+    position: absolute;
+    width: 909px;
+    height: 62px;
+    left: 39px;
+    top: 524px;
+
+    background: #F3F3F3;
+}
+
+input#pesquisar-buscar {
+    position: absolute;
+    width: 234px;
+    height: 74px;
+    left: 979px;
+    top: 518px;
+    border-radius: 50mm;
+
+    background: #C4C4C4;
+}
