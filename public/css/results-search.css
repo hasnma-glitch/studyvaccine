@@ -1,0 +1,48 @@
+* {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    font-family: 'Red Hat Text', sans-serif;
+
+    background: rgba(130, 140, 102, 0.78);
+
+}
+
+p.cidest {
+        
+    width: 194px;
+    height: 73px;
+    left: 23px;
+    top: 0px;
+    line-height: 33px;
+}
+
+div.about-study, .p#about {
+    position: absolute;
+    width: 909px;
+    height: 112px;
+    left: 0px;
+    top: 192px;
+
+    background: linear-gradient(180deg, rgba(85, 25, 122, 0.65) 0%, rgba(197, 178, 208, 0.65) 0.01%, rgba(146, 0, 235, 0) 100%);
+}
+
+div.origins, .p#story {
+    position: absolute;
+    width: 668px;
+    height: 91px;
+    left: 0px;
+    top: 350px;
+
+    background: #C4C4C4;
+}
+
+div.fonts-notices, .p#fontes-noticias, .text#font {
+    position: absolute;
+    width: 362px;
+    height: 67px;
+    left: 1078px;
+    top: 112px;
+
+    background: #C4C4C4;
+}
